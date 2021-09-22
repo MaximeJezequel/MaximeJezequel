@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Social network (feel free to connect)
-<a href="https://www.linkedin.com/in/maxime-jezequel-7ab80914b/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maxime-jezequel-dev/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/mj3383"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://discordapp.com/users/710919289527599147/"><img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.codewars.com/users/MaximeJezequel/completed"><img align="left" alt="codewars" src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" /></a>
