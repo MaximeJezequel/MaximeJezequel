@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <img align="left" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+
+<br/><br/>
+
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -41,12 +44,13 @@ Here are some ideas to get you started:
 <img align="left" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="git" src="https://shields.io/badge/-git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="github" src="https://shields.io/badge/-github-181717?&style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
 <img align="left" alt="vs-code" src="https://shields.io/badge/-visual%20studio%20code-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="postman" src="https://shields.io/badge/-postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
 
-<br/>
-<br/>
-<br/>
+<br/><br/>
 
 ### To be developed next
 
