@@ -1,5 +1,5 @@
 ### Hi from Nantes - France ! 👋
-- 🌱 After learning web development at the Wild Code School (Raccoon4ever), I'm currently working as an intern at Onepoint !
+- 🌱 After learning web development at the Wild Code School (Raccoon4ever), I'm currently working as a full-stack engineer !
 - 😄 Scroll down for a random joke !
 
 <!--
